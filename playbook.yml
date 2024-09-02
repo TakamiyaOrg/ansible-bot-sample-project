@@ -2,7 +2,7 @@
 - name: Super Simple
   hosts: all
   tasks:
-    # Comment 6
+    # Comment 7
     - name: Debug msg
       debug:
         msg: Simple message
